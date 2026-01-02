@@ -8,7 +8,7 @@ A passionate developer focused on building scalable full-stack applications and 
 ---
 
 ### 🧠 About Me
-<hr/>
+</hr>
 
 <div align="left">
 <ul>
