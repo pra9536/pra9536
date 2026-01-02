@@ -41,11 +41,13 @@ A passionate developer focused on building scalable full-stack applications and 
 
 
 ### 📊 GitHub Insights
+<hr>
+<br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pra9536&show_icons=true&theme=radical&rank_icon=github" alt="Prateek's GitHub Stats" height="175" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pra9536&layout=donut&theme=radical" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pra9536&show_icons=true&theme=radical&rank_icon=github" alt="Prateek's Stats" height="175" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pra9536&layout=donut&theme=radical" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
