@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Prateek%20Yadav&fontSize=70" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&secondaryColor=3a7bd5&height=200&section=header&text=Prateek%20Yadav&fontSize=70&fontColor=fff&animation=twinkling" width="100%" />
+</p>
 
 <div align="center">
 
