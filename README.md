@@ -39,13 +39,18 @@ A passionate developer focused on building scalable full-stack applications and 
 
 <br>
 
+
 ### 📊 GitHub Insights
 
-<img src="https://camo.githubusercontent.com/4fb8efb36ad1fb535eae6140ae800e1da9f9fc8e079a574c0ed0c8a4cecba895/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d56616973686e617669417374686147267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://nirzak-streak-stats.vercel.app/?user=pra9536&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pra9536&show_icons=true&theme=radical" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pra9536&theme=radical" height="175" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pra9536&theme=radical" height="175" />
 </p>
+
 
 ### 🌐 Connect with me
 <hr>
