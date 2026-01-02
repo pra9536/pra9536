@@ -12,12 +12,8 @@ A passionate developer focused on building scalable full-stack applications and 
 
 ### 🧠 About Me
 <ul>
-   <li>
-🌱 I’m currently learning **Microservices and Cloud Native Architecture**.
-      </li>
-   <li>
-📫 Reach me at: **prateek246729@gmail.com**.
-      </li>
+  <li>🌱 I’m currently learning <b>Microservices and Cloud Native Architecture</b>.</li>
+  <li>📫 Reach me at: <a href="mailto:prateek246729@gmail.com"><b>prateek246729@gmail.com</b></a></li>
 </ul>
 
 ---
