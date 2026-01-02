@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a1a&secondaryColor=00d2ff&height=200&section=header&text=Prateek%20Yadav&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=24292e&secondaryColor=00d2ff&height=200&section=header&text=%3CPrateek%20Yadav%20/%3E&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
+
 
 <div align="center">
 
