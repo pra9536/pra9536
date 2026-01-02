@@ -45,6 +45,7 @@ A passionate developer focused on building scalable full-stack applications and 
 
 <br>
 <hr>
+<br>
 
 ### 📊 GitHub Insights
 
