@@ -45,13 +45,13 @@ A passionate developer focused on building scalable full-stack applications and 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pra9536&show_icons=true&theme=radical&rank_icon=github" alt="Prateek's Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pra9536&show_icons=true&theme=radical" height="175" alt="Prateek's Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pra9536&layout=donut&theme=radical" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pra9536&layout=donut&theme=radical" height="200" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pra9536&theme=radical" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pra9536&theme=radical" alt="GitHub Streak" height="175" />
 </p>
 
 
