@@ -12,9 +12,6 @@ A passionate developer focused on building scalable full-stack applications and 
 <div align="left">
 <ul>
   <li>🌱 I’m currently learning <b>Microservices and Cloud Native Architecture</b>.</li>
-  <li>💻 Architected image classification workflows as an <b>AI Azure Intern</b>.</li>
-  <li>🏆 <b>Reliance Foundation Scholar (2023)</b> selected among top students nationwide.</li>
-  <li>🧩 Solved <b>500+ DSA problems</b> across multiple platforms.</li>
   <li>📫 Reach me at: <a href="mailto:prateek246729@gmail.com"><u><b>prateek246729@gmail.com</b></u></a></li>
 </ul>
 </div>
@@ -22,6 +19,8 @@ A passionate developer focused on building scalable full-stack applications and 
 ---
 
 ### 🛠 Languages and Tools
+
+<br>
 
 <p align="center">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -31,7 +30,6 @@ A passionate developer focused on building scalable full-stack applications and 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <br><br>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -40,6 +38,7 @@ A passionate developer focused on building scalable full-stack applications and 
   <a href="https://www.eclipse.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a>
 </p>
 
+<br>
 ---
 
 ### 📊 GitHub Insights
@@ -49,18 +48,9 @@ A passionate developer focused on building scalable full-stack applications and 
 
 ---
 
-### 🚀 Key Projects
-
-<div align="left">
-
-* [cite_start]**[YouTube SEO Tools (SaaS)](https://github.com/pra9536/SAAS-Product)**: Optimized content discoverability using **YouTube Data API** and **Docker**[cite: 35, 37].
-* [cite_start]**[Job Portal System](https://github.com/pra9536/Job-Portal)**: Scalable platform with **MongoDB indexing** and 10+ robust **REST APIs**[cite: 29, 32, 33].
-
-</div>
-
----
-
 ### 🌐 Connect with me
+
+<br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prateek-yadav-2616a6257/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" /></a>
@@ -70,4 +60,5 @@ A passionate developer focused on building scalable full-stack applications and 
 <a href="https://www.instagram.com/prateek___yadav____/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" /></a>
 </p>
 
+<br>
 </div>
