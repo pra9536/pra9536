@@ -9,8 +9,14 @@ A passionate developer focused on building scalable full-stack applications and 
 </div>
 
 ### 🧠 About Me
+<ul>
+   <li>
 🌱 I’m currently learning **Microservices and Cloud Native Architecture**.
+      </li>
+   <li>
 📫 Reach me at: **prateek246729@gmail.com**.
+      </li>
+</ul>
 
 ### 🛠 Languages and Tools
 
@@ -23,6 +29,13 @@ A passionate developer focused on building scalable full-stack applications and 
 
 ---
 
-### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/pra9536) | [Portfolio](https://prateekyadav-portfolio.vercel.app) | [LeetCode](https://leetcode.com/pra9536)
+### 🌐 Connect with me
 
+<p align="center">
+<a href="https://x.com/Prateek41863008?t=B1k6QTaG0FV0G8SGiAwK6A&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/prateek-yadav-2616a6257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/prateek___yadav____/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" style="max-width: 100%;"></a>
+<a href="https://leetcode.com/u/Prateek9536/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" style="max-width: 100%;"></a>
+<a href="https://codeforces.com/profile/prateekyadav9536009830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="30" style="max-width: 100%;"></a>
+<a href="https://www.geeksforgeeks.org/profile/prateek9536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="30" style="max-width: 100%;"></a>
+</p>
