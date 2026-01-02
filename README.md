@@ -54,7 +54,7 @@ A passionate developer focused on building scalable full-stack applications and 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pra9536&show_icons=true&theme=radical" alt="Prateek's Stats" height="175" />
   <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pra9536&layout=compact&theme=radical" alt="Top Languages" height="175" />
+  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pra9536&layout=compact&theme=radical" alt="Top Languages" height="175" /> -->
 </p>
 <br>
 <hr>
