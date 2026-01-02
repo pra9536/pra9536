@@ -24,6 +24,5 @@ A passionate developer focused on building scalable full-stack applications and 
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/prateek-yadav-2616a6257/) | [cite_start][Portfolio](https://prateekyadav-portfolio.vercel.app) [cite: 3, 4] | [LeetCode](https://leetcode.com/u/Prateek9536/)
-
+[LinkedIn](https://www.linkedin.com/in/pra9536) | [Portfolio](https://prateekyadav-portfolio.vercel.app) | [LeetCode](https://leetcode.com/pra9536)
 
