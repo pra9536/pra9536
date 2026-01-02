@@ -5,10 +5,11 @@
 
 A passionate developer focused on building scalable full-stack applications and solving complex problems with Java and Spring Boot. 
 
+</div>
 ---
 
 ### 🧠 About Me
-</hr>
+<hr>
 
 <div align="left">
 <ul>
@@ -20,7 +21,7 @@ A passionate developer focused on building scalable full-stack applications and 
 ---
 
 ### 🛠 Languages and Tools
-<hr/>
+<hr>
 <br>
 
 <p align="center">
@@ -43,14 +44,14 @@ A passionate developer focused on building scalable full-stack applications and 
 ---
 
 ### 📊 GitHub Insights
-<hr/>
+<hr>
 <img src="https://github-readme-stats.vercel.app/api?username=pra9536&show_icons=true&theme=radical&rank_icon=github" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pra9536&layout=compact&theme=radical" height="170" />
 
 ---
 
 ### 🌐 Connect with me
-<hr/>
+<hr>
 <br>
 
 <p align="center">
@@ -62,4 +63,4 @@ A passionate developer focused on building scalable full-stack applications and 
 </p>
 
 <br>
-</div>
+
