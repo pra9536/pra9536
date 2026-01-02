@@ -6,9 +6,12 @@
 A passionate developer focused on building scalable full-stack applications and solving complex problems with Java and Spring Boot. 
 
 </div>
+<br>
+<hr>
+<br>
 
 ### 🧠 About Me
-<hr>
+<br>
 
 <div align="left">
 <ul>
@@ -16,9 +19,12 @@ A passionate developer focused on building scalable full-stack applications and 
   <li>📫 Reach me at: <a href="mailto:prateek246729@gmail.com"><u><b>prateek246729@gmail.com</b></u></a></li>
 </ul>
 </div>
+<br>
+<hr>
+<br>
 
 ### 🛠 Languages and Tools
-<hr>
+
 <br>
 
 <p align="center">
@@ -38,10 +44,10 @@ A passionate developer focused on building scalable full-stack applications and 
 </p>
 
 <br>
-
+<hr>
 
 ### 📊 GitHub Insights
-<hr>
+
 <br>
 
 <p align="center">
@@ -49,10 +55,12 @@ A passionate developer focused on building scalable full-stack applications and 
   <br><br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pra9536&layout=compact&theme=radical" alt="Top Languages" height="175" />
 </p>
-
+<br>
+<hr>
+<br>
 
 ### 🌐 Connect with me
-<hr>
+
 <br>
 
 <p align="center">
