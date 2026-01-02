@@ -20,6 +20,8 @@ A passionate developer focused on building scalable full-stack applications and 
 
 ### 🛠 Languages and Tools
 
+<br>
+
 
 <p align="center">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -51,6 +53,8 @@ A passionate developer focused on building scalable full-stack applications and 
 ---
 
 ### 🌐 Connect with me
+
+<br>
 
 <p align="center">
 <a href="https://x.com/Prateek41863008?t=B1k6QTaG0FV0G8SGiAwK6A&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" style="max-width: 100%;"></a>
