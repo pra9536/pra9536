@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Prateek%20Yadav&fontSize=70" width="100%" />
+
 <div align="center">
 
 # Hi 👋, I'm Prateek Yadav! 
