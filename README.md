@@ -5,8 +5,10 @@
 
 A passionate developer focused on building scalable full-stack applications and solving complex problems with Java and Spring Boot. 
 
----
+
 </div>
+
+---
 
 ### 🧠 About Me
 <ul>
@@ -18,9 +20,10 @@ A passionate developer focused on building scalable full-stack applications and 
       </li>
 </ul>
 
+---
+
 ### 🛠 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,react,js,html,css,docker,azure,aws,git,github,vscode,idea" />
 
 <p align="center">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -39,7 +42,10 @@ A passionate developer focused on building scalable full-stack applications and 
   <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
+  <a href="https://www.eclipse.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a>
 </p>
+
+---
 
 ### 📊 GitHub Insights
 
