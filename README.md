@@ -1,10 +1,11 @@
-#                                                                        Hi there, I'm Prateek Yadav! 👋
- **                                                       Java Full Stack Developer | Aspiring Software Engineer                  **
+<div align="center">
+# Hi there, I'm Prateek Yadav! 👋
+ **Java Full Stack Developer | Aspiring Software Engineer**
 
 A passionate developer focused on building scalable full-stack applications and solving complex problems with Java and Spring Boot. 
 
 ---
-
+</div>
 ### 🛠 My Tech Stack
 
 **Languages & Core:**
@@ -54,3 +55,4 @@ A passionate developer focused on building scalable full-stack applications and 
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/prateek-yadav-2616a6257/) | [cite_start][Portfolio](https://prateekyadav-portfolio.vercel.app) [cite: 3, 4] | [LeetCode](https://leetcode.com/u/Prateek9536/)
+
