@@ -42,6 +42,7 @@ A passionate developer focused on building scalable full-stack applications and 
   <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
   <a href="https://www.eclipse.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a>
 </p>
+<br>
 
 ---
 
@@ -64,3 +65,4 @@ A passionate developer focused on building scalable full-stack applications and 
 <a href="https://codeforces.com/profile/prateekyadav9536009830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="30" style="max-width: 100%;"></a>
 <a href="https://www.geeksforgeeks.org/profile/prateek9536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="30" style="max-width: 100%;"></a>
 </p>
+<br>
